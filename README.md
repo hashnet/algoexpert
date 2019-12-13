@@ -1,2 +1,2 @@
 # algoexpert
-Solutions to problems in algoexpert
+Solutions to problems for algoexpert.io
